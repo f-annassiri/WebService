@@ -1,0 +1,17 @@
+@javax.xml.bind.annotation.XmlSchema(namespace = "http://webservice/")
+package webservice;
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 index.jsp
+index.jsp
+*L
+5:44
+6:45,2
+7:47
+7,12:47
+19,13:60
+31,4:73
+*E
